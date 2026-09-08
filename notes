@@ -8,3 +8,5 @@ gobuster dir -w /usr/share/seclists/Discovery/Web-Content/... -u url
 
 
 https://attack.mitre.org/resources/attack-data-and-tools/
+https://mitre.ptsecurity.com/ru-RU?amp=&amp=
+https://attack.mitre.org/
